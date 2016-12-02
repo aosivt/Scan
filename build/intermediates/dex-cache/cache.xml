@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/alex/AndroidStudioProjects/Scan/app/src/libs/zxing-integration.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f58522f35e7a50e8cab20a41d102e0039bee1dc7">
+        <dex dex="/home/alex/AndroidStudioProjects/Scan/app/build/intermediates/pre-dexed/debug/zxing-integration-3eedd52b4e80ca19aaca94b8f4ae11f4c16aa584.jar" />
+    </item>
+    <item
+        jar="/home/alex/AndroidStudioProjects/Scan/app/src/libs/zxing-j2se-1.7.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="121b66c3e3804a30ba7cad5d5c31bb26444757c2">
+        <dex dex="/home/alex/AndroidStudioProjects/Scan/app/build/intermediates/pre-dexed/debug/zxing-j2se-1.7-babb8cd5c0dae21b0341969b8ee9a72477714f08.jar" />
+    </item>
+    <item
+        jar="/home/alex/AndroidStudioProjects/Scan/app/src/libs/zxing-2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="69ab751723c7f7c8a01fddb1d169a93160fadca7">
+        <dex dex="/home/alex/AndroidStudioProjects/Scan/app/build/intermediates/pre-dexed/debug/zxing-2.1-abcd7d8f3ae4088f0ed936f4aaba540c752579f2.jar" />
+    </item>
+
+</items>
